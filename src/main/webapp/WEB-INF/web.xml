@@ -112,8 +112,7 @@ see here: http://static.springsource.org/spring/docs/current/spring-framework-re
 
 <resource-ref>
   <description>Primary database</description>
-  <res-ref-name>jdbc/petclinicx</res-ref-name>
-  <jndi-name>jdbc/petclinic</jndi-name>
+  <res-ref-name>jdbc/petclinic</res-ref-name>
   <res-type>javax.sql.DataSource</res-type>
   <res-auth>CONTAINER</res-auth>
 </resource-ref>

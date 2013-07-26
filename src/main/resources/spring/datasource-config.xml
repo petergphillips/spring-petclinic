@@ -44,7 +44,7 @@
     <beans profile="javaee" >
 	-->
         <!-- JNDI DataSource for JEE environments -->
-        <jee:jndi-lookup id="dataSource" jndi-name="jdbc/petclinicx"/>
+        <jee:jndi-lookup id="dataSource" jndi-name="jdbc/petclinic"/>
 	<!--
     </beans>
      -->
